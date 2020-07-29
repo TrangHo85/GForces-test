@@ -1,0 +1,10 @@
+# Browser Testing Ignores
+.vscode/
+selenium-debug.log
+local.log
+test-report/
+package-lock.json
+
+# Node Ignores
+npm-debug.log
+node_modules/
